@@ -2,7 +2,7 @@
 
 #### 演示图
 
-
+ ![20181029142734.png](https://github.com/e9ab98e991ab/TallyView/blob/master/png/20181029142734.png?raw=true)
 
  #### 对照表 
 
