@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="tally_view">
+        <attr name="tally_count_max" format="integer" />
+        <attr name="tally_left_img" format="dimension" />
+        <attr name="tally_right_img" format="dimension" />
+        <attr name="tally_left_img_color" format="dimension" />
+        <attr name="tally_right_img_color" format="dimension" />
+    </declare-styleable>
+
+
+</resources>
